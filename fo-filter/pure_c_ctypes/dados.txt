@@ -1,0 +1,5 @@
+CPU time fofilter_plain: 106.13364362716675
+CPU time fofilter_pure_cython_np: 1.268965244293213
+CPU time fofilter_pure_c_cython_wrap: 1.0132853984832764
+CPU time filter_c_ctypes_wrap: 1.6918201446533203
+CPU time fofilter_plain_numba: 2.8296327590942383
